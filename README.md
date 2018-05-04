@@ -7,3 +7,7 @@ https://github.com/TechBookHunter/Free-DevOps-Books
 
 Hadoop Related books
 https://github.com/TechBookHunter/Free-Hadoop-Books
+
+
+Find related Workshop, slides and exercise: http://training.data-artisans.com/
+
