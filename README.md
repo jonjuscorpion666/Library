@@ -25,6 +25,30 @@ https://github.com/forkarea/book
 https://github.molgen.mpg.de/david/free-programming-books/blob/master/free-programming-books.md
 
 https://github.com/learn-anything/books
+https://gist.github.com/pavel-popov/d5d0166bddba31cdcf7d94e1fd121c95
+https://github.com/ppatil9096/books
+https://github.com/ZoranLi/Books-1/blob/master/Patterns%20of%20Enterprise%20Application%20Architecture.pdf
+https://github.com/unlight/solution-architecture
+https://github.com/burkesquires/tech-books-library
+https://github.com/pankajchopra/togaf
+
+
+Refactoring. Improving the Design of Existing Code by Martin Fowler
+Enterprise Integration Patterns written by Gregor Hohpe
+Design Patterns: Elements of Reusable Object-Oriented Software by John Vlissides, Ralph Johnson, Richard Helm, Erich Gamma
+Experience and Knowledge Management in Software Engineering by Kurt Schneider
+Clean Code by Robert C. Martin
+UZMO — Thinking With Your Pen
+Agile Estimating and Planning by Mike Cohn
+
+https://github.com/justinamiller/SoftwareArchitect
+https://github.com/lantran/Books/tree/master/Fowler%2C%20Martin/Patterns%20of%20Enterprise%20Application%20Architecture
 
 https://github.com/MrAlex6204/Books
 https://github.com/EbookFoundation/free-programming-books
+
+
+https://github.com/fan-zheng/books
+
+https://github.com/xgrommx/awesome-functional-programming
+https://github.com/MostlyAdequate/mostly-adequate-guide
