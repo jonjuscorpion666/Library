@@ -21,3 +21,4 @@ https://github.com/quantumahesh/Hands-On-Machine-Learning-Book
 https://github.com/changwookjun/StudyBook/tree/master/MachineLearningBooks
 https://github.com/changwookjun/StudyBook
 https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
+https://github.com/forkarea/book
