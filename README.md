@@ -22,3 +22,9 @@ https://github.com/changwookjun/StudyBook/tree/master/MachineLearningBooks
 https://github.com/changwookjun/StudyBook
 https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
 https://github.com/forkarea/book
+https://github.molgen.mpg.de/david/free-programming-books/blob/master/free-programming-books.md
+
+https://github.com/learn-anything/books
+
+https://github.com/MrAlex6204/Books
+https://github.com/EbookFoundation/free-programming-books
