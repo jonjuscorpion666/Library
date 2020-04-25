@@ -1,0 +1,11 @@
+IDF - Inverse document frequency 
+Inverse Document Frequency (IDF) is a weight indicating how commonly a word is used. 
+The more frequent its usage across documents, the lower its score. The lower the score, the less important the word becomes.
+
+For example, the word the appears in almost all English texts and would thus have a very low IDF score as it carries very little “topic” information. In contrast, if you take the word coffee,
+while it is common, it’s not used as widely as the word the.
+Thus, coffee would have a higher IDF score than the. Traditionally IDF is computed as:
+tf-idf (w, d) = bow(w, d) * N / (# documents in which word w appears)
+
+Tf-idf makes rare words more prominent and effectively ignores common words.
+
