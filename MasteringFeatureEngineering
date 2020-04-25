@@ -9,3 +9,14 @@ tf-idf (w, d) = bow(w, d) * N / (# documents in which word w appears)
 
 Tf-idf makes rare words more prominent and effectively ignores common words.
 
+How is TF*IDF calculated? The TF (term frequency) of a word is the frequency of a word (i.e. number of times it appears) in a document. When you know it, you’re able to see if you’re using a term too much or too little.
+For example, when a 100-word document contains the term “cat” 12 times, the TF for the word ‘cat’ is
+
+TFcat = 12/100 i.e. 0.12
+
+Let’s say the term “cat” appears x amount of times in a 10,000,000 million document-sized corpus (i.e. web).
+Let’s assume there are 0.3 million documents that contain the term “cat”, then the IDF (i.e. log {DF}) is given by the total number of documents (10,000,000) divided by the number of documents containing the term “cat” (300,000).
+
+IDF (cat) = log (10,000,000/300,000) = 1.52
+
+∴ Wcat = (TF*IDF) cat = 0.12 * 1.52 = 0.182
