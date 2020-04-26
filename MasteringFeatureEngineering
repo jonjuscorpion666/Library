@@ -20,3 +20,13 @@ Let’s assume there are 0.3 million documents that contain the term “cat”, 
 IDF (cat) = log (10,000,000/300,000) = 1.52
 
 ∴ Wcat = (TF*IDF) cat = 0.12 * 1.52 = 0.182
+
+FEATURE SCALING
+If feature scaling is not done, then a machine learning algorithm tends to weigh greater values, 
+higher and consider smaller values as the lower values, regardless of the unit of the values.
+
+Example: If an algorithm is not using feature scaling method then it can consider the value 3000 meter to be greater than 5 km but that’s actually not true and in this case, 
+the algorithm will give wrong predictions. So, we use Feature Scaling to bring all values to same magnitudes and thus,
+tackle this issue
+
+Techniques to perform Feature Scaling
