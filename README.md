@@ -8,6 +8,8 @@ https://github.com/TechBookHunter/Free-DevOps-Books
 Hadoop Related books
 https://github.com/TechBookHunter/Free-Hadoop-Books
 
+https://github.com/yanspirit/https-github.com-TechBookHunter-Free-Elasticsearch-Books/tree/master/book
+
 
 Find related Workshop, slides and exercise: http://training.data-artisans.com/
 
@@ -23,6 +25,9 @@ https://github.com/changwookjun/StudyBook
 https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
 https://github.com/forkarea/book
 https://github.molgen.mpg.de/david/free-programming-books/blob/master/free-programming-books.md
+
+https://github.com/tohweizhong/pdf-dump
+https://github.com/tomarraj008/data_books
 
 https://github.com/learn-anything/books
 https://gist.github.com/pavel-popov/d5d0166bddba31cdcf7d94e1fd121c95
