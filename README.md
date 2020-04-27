@@ -4,7 +4,7 @@ https://github.com/TechBookHunter/Free-Docker-Books/tree/master/book
 
 Devops related books
 https://github.com/TechBookHunter/Free-DevOps-Books
-
+https://github.com/nkatre/Free-DevOps-Books-1/tree/master/book
 Hadoop Related books
 https://github.com/TechBookHunter/Free-Hadoop-Books
 
